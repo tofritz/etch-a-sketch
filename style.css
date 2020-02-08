@@ -1,0 +1,5 @@
+#queryButton {
+  margin: 2rem auto 2rem auto;
+  display: flex;
+  justify-content: center;
+}
